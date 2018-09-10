@@ -32,6 +32,9 @@ SOURCES		:=	source
 DATA		:=
 INCLUDES	:=	include
 GRAPHICS	:=	gfx
+APP_TITLE	:=	Crash3DS
+APP_DESCRIPTION	:=	Crashes your 3DS
+APP_AUTHOR	:=	Laurin Neff
 
 #---------------------------------------------------------------------------------
 # options for code generation
